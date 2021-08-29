@@ -47,6 +47,7 @@ def collect_alp(word):
                     print(guessing + " is not in the word")
 
 
+            
 while True:
     word = word_choice()
     collect_alp(word)
